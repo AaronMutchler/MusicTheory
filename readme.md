@@ -26,14 +26,14 @@ This is a description of the **Music Theory CPP** API. I will add more later.
 8. **Chord-Scale**: ***Chord-scales** can be transposed up or down by an **interval***
 
 **REQ 3:** The user can compare an instance of an element with another instance of that element.
-1. **Note Class**: *Two **note classes** can be checked for equality or inequality*
+1. **Note Class**: *Two **note classes** can be checked for equality and inequality*
 2. **Note**: *Two **notes** can be checked for equality, inequality, and positional relationship*
 3. **Tone**: *Two **tones** can be checked for equality, inequality, and positional relationship. They can also be checked for relative duration*
 4. **Interval**: *Two **intervals** can be checked for equality, inequality, and relative distance*
-5. **Scale**: *Two **scales** can be checked for equality, inequality, or partial equality (I.e. permutation). A **scale** and a **mode** can be checked for the same relationships*
-6. **Mode**: *Two **modes** can be checked for equality, inequality, or partial equality (I.e. permutation). A **mode** and a **scale** can be checked for the same relationships*
-7. **Chord**: *Two **chords** can be checked for equality, inequality, or partial equality (I.e. permutation)*
-8. **Chord-Scale**: *Two **scales** can be checked for equality, inequality, or partial equality (I.e. permutation). A **scale** and a **mode** can be checked for the same relationships*
+5. **Scale**: *Two **scales** can be checked for equality, inequality, and partial equality (I.e. permutation). A **scale** and a **mode** can be checked for the same relationships*
+6. **Mode**: *Two **modes** can be checked for equality, inequality, and partial equality (I.e. permutation). A **mode** and a **scale** can be checked for the same relationships*
+7. **Chord**: *Two **chords** can be checked for equality, inequality, and partial equality (I.e. permutation)*
+8. **Chord-Scale**: *Two **chord-scales** can be checked for equality and inequality*
  
 
 ## Create files and folders
@@ -171,5 +171,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDMzODc1MDcsLTEzMjg1NjU0NV19
+eyJoaXN0b3J5IjpbNjE2MzU2NDc3LC0xMzI4NTY1NDVdfQ==
 -->
