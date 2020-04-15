@@ -6,9 +6,12 @@
  3. **Tone**: *A **note** which also contains a duration*
  4. **Interval**: *A relationship between two **note classes**, **notes**, or **tones***
  5. **Scale**: *A linear sequence of **note classes***
- 6. **Mode**: *A [circular permutation](https://en.wikipedia.org/wiki/Permutation#Circular_permutations) of a **scale***
- 7. **Chord**: *A non-linear sequence of **note classes***
- 8. **Chord-Scale**: *A sequence of **note classes** which have a linear and non-linear representation*
+ 6. **Abstract Scale**: *A linear sequence of **intervals***
+ 7. **Mode**: *A [circular permutation](https://en.wikipedia.org/wiki/Permutation#Circular_permutations) of a **scale***
+ 8. **Abstract Mode**: *A [circular permutation](https://en.wikipedia.org/wiki/Permutation#Circular_permutations) of an **abstract mode***
+ 9. **Chord**: *A non-linear sequence of **note classes***
+ 10.**Abstract Chord**: *A non-linear sequence of **intervals*** 
+ 11. **Chord-Scale**: *A sequence of **note classes** which have a linear and non-linear representation*
 
 **REQ 2:** The system can manipulate or alter an instance of an element.
 1. **Note Class**: ***Intervals** can be added or subtracted from a **note class***
@@ -34,5 +37,6 @@
 
 **REQ 5:** The system will provide the user with a library of pre-initialized constant instances of each element wherever there is a finite number of unique instances possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI1NDYyMTFdfQ==
+eyJoaXN0b3J5IjpbLTE2NTA0MDUyOTcsLTExMDI1NDYyMTFdfQ
+==
 -->
