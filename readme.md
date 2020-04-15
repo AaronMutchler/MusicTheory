@@ -30,8 +30,8 @@ This is a description of the **Music Theory CPP** API. I will add more later.
 2. **Note**: *Two **notes** can be checked for equality, inequality, and positional relationship*
 3. **Tone**: *Two **tones** can be checked for equality, inequality, and positional relationship. They can also be checked for relative duration*
 4. **Interval**: *Two **intervals** can be checked for equality, inequality, and relative distance*
-5. **Scale**: *Two **scales** can be checked for equality, inequality, or partial equality (I.e.)*
-6. **Mode**: ***Modes** can be transposed up or down by an **interval***
+5. **Scale**: *Two **scales** can be checked for equality, inequality, or partial equality (I.e. permutation). A **scale** and a **mode** *
+6. **Mode**: *Two **modes** can be checked for equality, inequality, or partial equality (I.e. permutation)*
 7. **Chord**: ***Chord** can be transposed up or down by an **interval***
 8. **Chord-Scale**: ***Chord-scales** can be transposed up or down by an **interval*** 
  
@@ -171,5 +171,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTE1NjAwMiwtMTMyODU2NTQ1XX0=
+eyJoaXN0b3J5IjpbLTEwMDI5Nzg5NiwtMTMyODU2NTQ1XX0=
 -->
