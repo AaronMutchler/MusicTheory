@@ -35,15 +35,7 @@ This is a description of the **Music Theory CPP** API. I will add more later.
 7. **Chord**: *Two **chords** can be checked for equality, inequality, and partial equality (I.e. permutation)*
 8. **Chord-Scale**: *Two **chord-scales** can be checked for equality and inequality*
  
-**REQ 4:** The system will validate any istanc 
-1. **Note Class**: *Two **note classes** can be checked for equality and inequality*
-2. **Note**: *Two **notes** can be checked for equality, inequality, and positional relationship*
-3. **Tone**: *Two **tones** can be checked for equality, inequality, and positional relationship. They can also be checked for relative duration*
-4. **Interval**: *Two **intervals** can be checked for equality, inequality, and relative distance*
-5. **Scale**: *Two **scales** can be checked for equality, inequality, and partial equality (I.e. permutation). A **scale** and a **mode** can be checked for the same relationships*
-6. **Mode**: *Two **modes** can be checked for equality, inequality, and partial equality (I.e. permutation). A **mode** and a **scale** can be checked for the same relationships*
-7. **Chord**: *Two **chords** can be checked for equality, inequality, and partial equality (I.e. permutation)*
-8. **Chord-Scale**: *Two **chord-scales** can be checked for equality and inequality*
+**REQ 4:** The system will validate that any instance is a valid instance of that element and be notified if it is not.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1NjYwMDgyLDg5MjYxODk4Ml19
+eyJoaXN0b3J5IjpbMTMyMDAzNjc1Myw4OTI2MTg5ODJdfQ==
 -->
