@@ -35,7 +35,8 @@ This is a description of the **Music Theory CPP** API. I will add more later.
 7. **Chord**: *Two **chords** can be checked for equality, inequality, and partial equality (I.e. permutation)*
 8. **Chord-Scale**: *Two **chord-scales** can be checked for equality and inequality*
  
+ **REQ 4:** All elements maintain cohesive language and usage such that 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5NjY4ODcwLDg5MjYxODk4Ml19
+eyJoaXN0b3J5IjpbMjAyOTU4NjEzMSw4OTI2MTg5ODJdfQ==
 -->
