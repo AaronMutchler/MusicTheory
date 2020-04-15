@@ -28,7 +28,7 @@ This is a description of the **Music Theory CPP** API. I will add more later.
 **REQ 3:** The user can compare an instance of an element with another instance of that element.
 1. **Note Class**: *Two **note classes** can be checked for equality or inequality*
 2. **Note**: *Two **notes** can be checked for equality, inequality, and positional relationship*
-3. **Tone**: ***Intervals** can be added or subtracted from a **tone***
+3. **Tone**: *Two **tones** can be checked for equality, inequality, and positional relationship. They can also be checked for relative duration*
 4. **Interval**: ***Intervals** can be added or subtracted from other **interval***
 5. **Scale**: ***Scales** can be transposed up or down by an **interval***
 6. **Mode**: ***Modes** can be transposed up or down by an **interval***
@@ -171,5 +171,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyNjE4OTgyXX0=
+eyJoaXN0b3J5IjpbNjc2NzAxMDQ0LDg5MjYxODk4Ml19
 -->
