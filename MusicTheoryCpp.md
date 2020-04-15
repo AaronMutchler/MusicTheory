@@ -35,7 +35,7 @@ This is a description of the **Music Theory CPP** API. I will add more later.
 7. **Chord**: *Two **chords** can be checked for equality, inequality, and partial equality (I.e. permutation)*
 8. **Chord-Scale**: *Two **chord-scales** can be checked for equality and inequality*
  
-**REQ 4:** The system will validate that any instance is a valid instance of that element and be notified if it is not.
+**REQ 4:** The system will validate an instance when it is created or modified and will notify the user if the created/modified instance is invalid.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDAzNjc1Myw4OTI2MTg5ODJdfQ==
+eyJoaXN0b3J5IjpbMTI2MDk0MTg1LDg5MjYxODk4Ml19
 -->
