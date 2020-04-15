@@ -1,6 +1,7 @@
-# Test of 
+# UML Class structure
+
 ```mermaid
-classDiagram
+sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
 Bob-->>John: How about you John?
 Bob--x Alice: I am good thanks!
@@ -10,7 +11,6 @@ Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text d
 Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTMyMDQyOCw1MzMyOTkyNTddfQ==
+eyJoaXN0b3J5IjpbMzMzMDI0ODc3LDUzMzI5OTI1N119
 -->
