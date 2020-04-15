@@ -1,6 +1,6 @@
 # UML Class structure
 
-```mermaid
+(```mermaid)
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
 Bob-->>John: How about you John?
@@ -12,5 +12,6 @@ Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzMDI0ODc3LDUzMzI5OTI1N119
+eyJoaXN0b3J5IjpbMTYzMDg0Nzk2LDMzMzAyNDg3Nyw1MzMyOT
+kyNTddfQ==
 -->
