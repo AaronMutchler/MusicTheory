@@ -85,6 +85,27 @@
 		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/main.cpp">
 			<Option target="MusicTheory"/>
 		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/accidental.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/accidental.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/noteLetter.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/noteLetter.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/test/test_Accidental.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/test/test_NoteLetter.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/test/test_main.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
 		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

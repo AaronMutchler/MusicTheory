@@ -70,17 +70,92 @@ CMakeFiles/MusicTheory.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/main.cpp -o CMakeFiles/MusicTheory.dir/main.cpp.s
 
+CMakeFiles/MusicTheory.dir/test/test_main.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/test/test_main.cpp.o: ../test/test_main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MusicTheory.dir/test/test_main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/test/test_main.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/test/test_main.cpp
+
+CMakeFiles/MusicTheory.dir/test/test_main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/test/test_main.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/test/test_main.cpp > CMakeFiles/MusicTheory.dir/test/test_main.cpp.i
+
+CMakeFiles/MusicTheory.dir/test/test_main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/test/test_main.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/test/test_main.cpp -o CMakeFiles/MusicTheory.dir/test/test_main.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.o: ../src/noteLetter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/noteLetter.cpp
+
+CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/noteLetter.cpp > CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/noteLetter.cpp -o CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.s
+
+CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.o: ../test/test_NoteLetter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/test/test_NoteLetter.cpp
+
+CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/test/test_NoteLetter.cpp > CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.i
+
+CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/test/test_NoteLetter.cpp -o CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/accidental.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/accidental.cpp.o: ../src/accidental.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MusicTheory.dir/src/accidental.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/accidental.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/accidental.cpp
+
+CMakeFiles/MusicTheory.dir/src/accidental.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/accidental.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/accidental.cpp > CMakeFiles/MusicTheory.dir/src/accidental.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/accidental.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/accidental.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/accidental.cpp -o CMakeFiles/MusicTheory.dir/src/accidental.cpp.s
+
+CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.o: ../test/test_Accidental.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/test/test_Accidental.cpp
+
+CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/test/test_Accidental.cpp > CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.i
+
+CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/test/test_Accidental.cpp -o CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.s
+
 # Object files for target MusicTheory
 MusicTheory_OBJECTS = \
-"CMakeFiles/MusicTheory.dir/main.cpp.o"
+"CMakeFiles/MusicTheory.dir/main.cpp.o" \
+"CMakeFiles/MusicTheory.dir/test/test_main.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.o" \
+"CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/accidental.cpp.o" \
+"CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.o"
 
 # External object files for target MusicTheory
 MusicTheory_EXTERNAL_OBJECTS =
 
 MusicTheory: CMakeFiles/MusicTheory.dir/main.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/test/test_main.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/accidental.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.o
 MusicTheory: CMakeFiles/MusicTheory.dir/build.make
 MusicTheory: CMakeFiles/MusicTheory.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable MusicTheory"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable MusicTheory"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MusicTheory.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

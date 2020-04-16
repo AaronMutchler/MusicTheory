@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Aaron/CLionProjects/MusicTheory/src/accidental.cpp
+accidental.h
+/Users/Aaron/CLionProjects/MusicTheory/src/accidental.h
+
+/Users/Aaron/CLionProjects/MusicTheory/src/accidental.h
+iostream
+-
+
+/Users/Aaron/CLionProjects/MusicTheory/test/test_Accidental.cpp
+catch2/catch.hpp
+-
+../src/accidental.h
+/Users/Aaron/CLionProjects/MusicTheory/src/accidental.h
+
