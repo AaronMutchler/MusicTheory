@@ -20,17 +20,17 @@
 3. **Tone**: ***Intervals** can be added or subtracted from a **tone***
 4. **Interval**: ***Intervals** can be added or subtracted from other **interval***
 5. **Scale**: ***Scales** can be transposed up or down by an **interval***
-6. **Abstract Scale**: ***Scales** can be transposed up or down by an **interval***
-7. **Mode**: ***Modes** can be transposed up or down by an **interval***
-8. **Chord**: ***Chord** can be transposed up or down by an **interval***
-9. **Chord-Scale**: ***Chord-scales** can be transposed up or down by an **interval***
+6. **Mode**: ***Modes** can be transposed up or down by an **interval***
+7. **Chord**: ***Chord** can be transposed up or down by an **interval***
+8. **Chord-Scale**: ***Chord-scales** can be transposed up or down by an **interval***
 
 **REQ 3:** The system can compare an instance of an element with another instance of that element.
-10. **Note Class**: *Two **note classes** can be checked for equality and inequality*
-11. **Note**: *Two **notes** can be checked for equality, inequality, and positional relationship*
-12. **Tone**: *Two **tones** can be checked for equality, inequality, and positional relationship. They can also be checked for relative duration*
-13. **Interval**: *Two **intervals** can be checked for equality, inequality, and relative distance*
-14. **Scale**: *Two **scales** can be checked for equality, inequality, and partial equality (I.e. permutation). A **scale** and a **mode** can be checked for the same relationships*
+9. **Note Class**: *Two **note classes** can be checked for equality and inequality*
+10. **Note**: *Two **notes** can be checked for equality, inequality, and positional relationship*
+11. **Tone**: *Two **tones** can be checked for equality, inequality, and positional relationship. They can also be checked for relative duration*
+12. **Interval**: *Two **intervals** can be checked for equality, inequality, and relative distance*
+13. **Scale**: *Two **scales** can be checked for equality, inequality, and partial equality (I.e. permutation). A **scale** and a **mode** can be checked for the same relationships*
+14. **Abstract Scale**: *Two ** abstract scales** can be checked for equality, inequality, and partial equality (I.e. permutation). An **ascale** and a **mode** can be checked for the same relationships*
 15. **Mode**: *Two **modes** can be checked for equality, inequality, and partial equality (I.e. permutation). A **mode** and a **scale** can be checked for the same relationships*
 16. **Chord**: *Two **chords** can be checked for equality, inequality, and partial equality (I.e. permutation)*
 17. **Chord-Scale**: *Two **chord-scales** can be checked for equality and inequality*
@@ -39,5 +39,5 @@
 
 **REQ 5:** The system will provide the user with a library of pre-initialized constant instances of each element wherever there is a finite number of unique instances possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzI4NDgxNCwtMTEwMjU0NjIxMV19
+eyJoaXN0b3J5IjpbMzU5MzEzMjMyLC0xMTAyNTQ2MjExXX0=
 -->
