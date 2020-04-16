@@ -30,14 +30,17 @@
 11. **Tone**: *Two **tones** can be checked for equality, inequality, and positional relationship. They can also be checked for relative duration*
 12. **Interval**: *Two **intervals** can be checked for equality, inequality, and relative distance*
 13. **Scale**: *Two **scales** can be checked for equality, inequality, and partial equality (I.e. permutation). A **scale** and a **mode** can be checked for the same relationships*
-14. **Abstract Scale**: *Two ** abstract scales** can be checked for equality, inequality, and partial equality (I.e. permutation). An **ascale** and a **mode** can be checked for the same relationships*
+14. **Abstract Scale**: *Two ** abstract scales** can be checked for equality, inequality, and partial equality (I.e. permutation). An **abstract scale** and an **abstract mode** can be checked for the same relationships*
 15. **Mode**: *Two **modes** can be checked for equality, inequality, and partial equality (I.e. permutation). A **mode** and a **scale** can be checked for the same relationships*
-16. **Chord**: *Two **chords** can be checked for equality, inequality, and partial equality (I.e. permutation)*
-17. **Chord-Scale**: *Two **chord-scales** can be checked for equality and inequality*
+16. **Abstract Mode**: *Two **abstract modes** can be checked for equality, inequality, and partial equality (I.e. permutation). An **abstract mode** and an **abstract scale** can be checked for the same relationships*
+17. **Chord**: *Two **chords** can be checked for equality, inequality, and partial equality (I.e. permutation)*
+18. **Abstract Chord**: *Two **abstract chords** can be checked for equality, inequality, and partial equality (I.e. permutation)*
+19. **Chord-Scale**: *Two **chord-scales** can be checked for equality and inequality*
+20. **Abstract Chord-Scale**: *Two **abstract chord-scales** can be checked for equality and inequality*
  
 **REQ 4:** The system will validate an instance when it is created or modified and will notify the user if the created/modified instance is invalid.
 
 **REQ 5:** The system will provide the user with a library of pre-initialized constant instances of each element wherever there is a finite number of unique instances possible.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MzEzMjMyLC0xMTAyNTQ2MjExXX0=
+eyJoaXN0b3J5IjpbMTI5ODM1MzQ1NSwtMTEwMjU0NjIxMV19
 -->
