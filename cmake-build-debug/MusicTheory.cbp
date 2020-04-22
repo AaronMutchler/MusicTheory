@@ -85,22 +85,10 @@
 		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/main.cpp">
 			<Option target="MusicTheory"/>
 		</Unit>
-		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/accidental.cpp">
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/naturalNote.cpp">
 			<Option target="MusicTheory"/>
 		</Unit>
-		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/accidental.h">
-			<Option target="MusicTheory"/>
-		</Unit>
-		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/noteLetter.cpp">
-			<Option target="MusicTheory"/>
-		</Unit>
-		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/noteLetter.h">
-			<Option target="MusicTheory"/>
-		</Unit>
-		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/test/test_Accidental.cpp">
-			<Option target="MusicTheory"/>
-		</Unit>
-		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/test/test_NoteLetter.cpp">
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/naturalNote.h">
 			<Option target="MusicTheory"/>
 		</Unit>
 		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/test/test_main.cpp">

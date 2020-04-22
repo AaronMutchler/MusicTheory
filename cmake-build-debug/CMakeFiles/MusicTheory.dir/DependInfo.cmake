@@ -5,10 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/Aaron/CLionProjects/MusicTheory/main.cpp" "/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles/MusicTheory.dir/main.cpp.o"
-  "/Users/Aaron/CLionProjects/MusicTheory/src/accidental.cpp" "/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles/MusicTheory.dir/src/accidental.cpp.o"
-  "/Users/Aaron/CLionProjects/MusicTheory/src/noteLetter.cpp" "/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.o"
-  "/Users/Aaron/CLionProjects/MusicTheory/test/test_Accidental.cpp" "/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.o"
-  "/Users/Aaron/CLionProjects/MusicTheory/test/test_NoteLetter.cpp" "/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.o"
+  "/Users/Aaron/CLionProjects/MusicTheory/src/naturalNote.cpp" "/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.o"
   "/Users/Aaron/CLionProjects/MusicTheory/test/test_main.cpp" "/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles/MusicTheory.dir/test/test_main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

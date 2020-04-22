@@ -150,113 +150,32 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-src/accidental.o: src/accidental.cpp.o
+src/naturalNote.o: src/naturalNote.cpp.o
 
-.PHONY : src/accidental.o
-
-# target to build an object file
-src/accidental.cpp.o:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/accidental.cpp.o
-.PHONY : src/accidental.cpp.o
-
-src/accidental.i: src/accidental.cpp.i
-
-.PHONY : src/accidental.i
-
-# target to preprocess a source file
-src/accidental.cpp.i:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/accidental.cpp.i
-.PHONY : src/accidental.cpp.i
-
-src/accidental.s: src/accidental.cpp.s
-
-.PHONY : src/accidental.s
-
-# target to generate assembly for a file
-src/accidental.cpp.s:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/accidental.cpp.s
-.PHONY : src/accidental.cpp.s
-
-src/noteLetter.o: src/noteLetter.cpp.o
-
-.PHONY : src/noteLetter.o
+.PHONY : src/naturalNote.o
 
 # target to build an object file
-src/noteLetter.cpp.o:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.o
-.PHONY : src/noteLetter.cpp.o
+src/naturalNote.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.o
+.PHONY : src/naturalNote.cpp.o
 
-src/noteLetter.i: src/noteLetter.cpp.i
+src/naturalNote.i: src/naturalNote.cpp.i
 
-.PHONY : src/noteLetter.i
-
-# target to preprocess a source file
-src/noteLetter.cpp.i:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.i
-.PHONY : src/noteLetter.cpp.i
-
-src/noteLetter.s: src/noteLetter.cpp.s
-
-.PHONY : src/noteLetter.s
-
-# target to generate assembly for a file
-src/noteLetter.cpp.s:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/noteLetter.cpp.s
-.PHONY : src/noteLetter.cpp.s
-
-test/test_Accidental.o: test/test_Accidental.cpp.o
-
-.PHONY : test/test_Accidental.o
-
-# target to build an object file
-test/test_Accidental.cpp.o:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.o
-.PHONY : test/test_Accidental.cpp.o
-
-test/test_Accidental.i: test/test_Accidental.cpp.i
-
-.PHONY : test/test_Accidental.i
+.PHONY : src/naturalNote.i
 
 # target to preprocess a source file
-test/test_Accidental.cpp.i:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.i
-.PHONY : test/test_Accidental.cpp.i
+src/naturalNote.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.i
+.PHONY : src/naturalNote.cpp.i
 
-test/test_Accidental.s: test/test_Accidental.cpp.s
+src/naturalNote.s: src/naturalNote.cpp.s
 
-.PHONY : test/test_Accidental.s
-
-# target to generate assembly for a file
-test/test_Accidental.cpp.s:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/test/test_Accidental.cpp.s
-.PHONY : test/test_Accidental.cpp.s
-
-test/test_NoteLetter.o: test/test_NoteLetter.cpp.o
-
-.PHONY : test/test_NoteLetter.o
-
-# target to build an object file
-test/test_NoteLetter.cpp.o:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.o
-.PHONY : test/test_NoteLetter.cpp.o
-
-test/test_NoteLetter.i: test/test_NoteLetter.cpp.i
-
-.PHONY : test/test_NoteLetter.i
-
-# target to preprocess a source file
-test/test_NoteLetter.cpp.i:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.i
-.PHONY : test/test_NoteLetter.cpp.i
-
-test/test_NoteLetter.s: test/test_NoteLetter.cpp.s
-
-.PHONY : test/test_NoteLetter.s
+.PHONY : src/naturalNote.s
 
 # target to generate assembly for a file
-test/test_NoteLetter.cpp.s:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/test/test_NoteLetter.cpp.s
-.PHONY : test/test_NoteLetter.cpp.s
+src/naturalNote.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.s
+.PHONY : src/naturalNote.cpp.s
 
 test/test_main.o: test/test_main.cpp.o
 
@@ -297,18 +216,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... src/accidental.o"
-	@echo "... src/accidental.i"
-	@echo "... src/accidental.s"
-	@echo "... src/noteLetter.o"
-	@echo "... src/noteLetter.i"
-	@echo "... src/noteLetter.s"
-	@echo "... test/test_Accidental.o"
-	@echo "... test/test_Accidental.i"
-	@echo "... test/test_Accidental.s"
-	@echo "... test/test_NoteLetter.o"
-	@echo "... test/test_NoteLetter.i"
-	@echo "... test/test_NoteLetter.s"
+	@echo "... src/naturalNote.o"
+	@echo "... src/naturalNote.i"
+	@echo "... src/naturalNote.s"
 	@echo "... test/test_main.o"
 	@echo "... test/test_main.i"
 	@echo "... test/test_main.s"
