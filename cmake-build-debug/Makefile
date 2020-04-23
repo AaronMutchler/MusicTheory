@@ -150,32 +150,491 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-src/naturalNote.o: src/naturalNote.cpp.o
+src/abstract-chord-family/abstractChord.o: src/abstract-chord-family/abstractChord.cpp.o
 
-.PHONY : src/naturalNote.o
+.PHONY : src/abstract-chord-family/abstractChord.o
 
 # target to build an object file
-src/naturalNote.cpp.o:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.o
-.PHONY : src/naturalNote.cpp.o
+src/abstract-chord-family/abstractChord.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.o
+.PHONY : src/abstract-chord-family/abstractChord.cpp.o
 
-src/naturalNote.i: src/naturalNote.cpp.i
+src/abstract-chord-family/abstractChord.i: src/abstract-chord-family/abstractChord.cpp.i
 
-.PHONY : src/naturalNote.i
+.PHONY : src/abstract-chord-family/abstractChord.i
 
 # target to preprocess a source file
-src/naturalNote.cpp.i:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.i
-.PHONY : src/naturalNote.cpp.i
+src/abstract-chord-family/abstractChord.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.i
+.PHONY : src/abstract-chord-family/abstractChord.cpp.i
 
-src/naturalNote.s: src/naturalNote.cpp.s
+src/abstract-chord-family/abstractChord.s: src/abstract-chord-family/abstractChord.cpp.s
 
-.PHONY : src/naturalNote.s
+.PHONY : src/abstract-chord-family/abstractChord.s
 
 # target to generate assembly for a file
-src/naturalNote.cpp.s:
-	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.s
-.PHONY : src/naturalNote.cpp.s
+src/abstract-chord-family/abstractChord.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.s
+.PHONY : src/abstract-chord-family/abstractChord.cpp.s
+
+src/abstract-chord-family/abstractInversion.o: src/abstract-chord-family/abstractInversion.cpp.o
+
+.PHONY : src/abstract-chord-family/abstractInversion.o
+
+# target to build an object file
+src/abstract-chord-family/abstractInversion.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.o
+.PHONY : src/abstract-chord-family/abstractInversion.cpp.o
+
+src/abstract-chord-family/abstractInversion.i: src/abstract-chord-family/abstractInversion.cpp.i
+
+.PHONY : src/abstract-chord-family/abstractInversion.i
+
+# target to preprocess a source file
+src/abstract-chord-family/abstractInversion.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.i
+.PHONY : src/abstract-chord-family/abstractInversion.cpp.i
+
+src/abstract-chord-family/abstractInversion.s: src/abstract-chord-family/abstractInversion.cpp.s
+
+.PHONY : src/abstract-chord-family/abstractInversion.s
+
+# target to generate assembly for a file
+src/abstract-chord-family/abstractInversion.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.s
+.PHONY : src/abstract-chord-family/abstractInversion.cpp.s
+
+src/abstract-scale-family/abstractChordScale.o: src/abstract-scale-family/abstractChordScale.cpp.o
+
+.PHONY : src/abstract-scale-family/abstractChordScale.o
+
+# target to build an object file
+src/abstract-scale-family/abstractChordScale.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.o
+.PHONY : src/abstract-scale-family/abstractChordScale.cpp.o
+
+src/abstract-scale-family/abstractChordScale.i: src/abstract-scale-family/abstractChordScale.cpp.i
+
+.PHONY : src/abstract-scale-family/abstractChordScale.i
+
+# target to preprocess a source file
+src/abstract-scale-family/abstractChordScale.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.i
+.PHONY : src/abstract-scale-family/abstractChordScale.cpp.i
+
+src/abstract-scale-family/abstractChordScale.s: src/abstract-scale-family/abstractChordScale.cpp.s
+
+.PHONY : src/abstract-scale-family/abstractChordScale.s
+
+# target to generate assembly for a file
+src/abstract-scale-family/abstractChordScale.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.s
+.PHONY : src/abstract-scale-family/abstractChordScale.cpp.s
+
+src/abstract-scale-family/abstractMode.o: src/abstract-scale-family/abstractMode.cpp.o
+
+.PHONY : src/abstract-scale-family/abstractMode.o
+
+# target to build an object file
+src/abstract-scale-family/abstractMode.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.o
+.PHONY : src/abstract-scale-family/abstractMode.cpp.o
+
+src/abstract-scale-family/abstractMode.i: src/abstract-scale-family/abstractMode.cpp.i
+
+.PHONY : src/abstract-scale-family/abstractMode.i
+
+# target to preprocess a source file
+src/abstract-scale-family/abstractMode.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.i
+.PHONY : src/abstract-scale-family/abstractMode.cpp.i
+
+src/abstract-scale-family/abstractMode.s: src/abstract-scale-family/abstractMode.cpp.s
+
+.PHONY : src/abstract-scale-family/abstractMode.s
+
+# target to generate assembly for a file
+src/abstract-scale-family/abstractMode.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.s
+.PHONY : src/abstract-scale-family/abstractMode.cpp.s
+
+src/abstract-scale-family/abstractParentScale.o: src/abstract-scale-family/abstractParentScale.cpp.o
+
+.PHONY : src/abstract-scale-family/abstractParentScale.o
+
+# target to build an object file
+src/abstract-scale-family/abstractParentScale.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.o
+.PHONY : src/abstract-scale-family/abstractParentScale.cpp.o
+
+src/abstract-scale-family/abstractParentScale.i: src/abstract-scale-family/abstractParentScale.cpp.i
+
+.PHONY : src/abstract-scale-family/abstractParentScale.i
+
+# target to preprocess a source file
+src/abstract-scale-family/abstractParentScale.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.i
+.PHONY : src/abstract-scale-family/abstractParentScale.cpp.i
+
+src/abstract-scale-family/abstractParentScale.s: src/abstract-scale-family/abstractParentScale.cpp.s
+
+.PHONY : src/abstract-scale-family/abstractParentScale.s
+
+# target to generate assembly for a file
+src/abstract-scale-family/abstractParentScale.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.s
+.PHONY : src/abstract-scale-family/abstractParentScale.cpp.s
+
+src/abstract-scale-family/abstractScale.o: src/abstract-scale-family/abstractScale.cpp.o
+
+.PHONY : src/abstract-scale-family/abstractScale.o
+
+# target to build an object file
+src/abstract-scale-family/abstractScale.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.o
+.PHONY : src/abstract-scale-family/abstractScale.cpp.o
+
+src/abstract-scale-family/abstractScale.i: src/abstract-scale-family/abstractScale.cpp.i
+
+.PHONY : src/abstract-scale-family/abstractScale.i
+
+# target to preprocess a source file
+src/abstract-scale-family/abstractScale.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.i
+.PHONY : src/abstract-scale-family/abstractScale.cpp.i
+
+src/abstract-scale-family/abstractScale.s: src/abstract-scale-family/abstractScale.cpp.s
+
+.PHONY : src/abstract-scale-family/abstractScale.s
+
+# target to generate assembly for a file
+src/abstract-scale-family/abstractScale.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.s
+.PHONY : src/abstract-scale-family/abstractScale.cpp.s
+
+src/chord-family/chord.o: src/chord-family/chord.cpp.o
+
+.PHONY : src/chord-family/chord.o
+
+# target to build an object file
+src/chord-family/chord.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.o
+.PHONY : src/chord-family/chord.cpp.o
+
+src/chord-family/chord.i: src/chord-family/chord.cpp.i
+
+.PHONY : src/chord-family/chord.i
+
+# target to preprocess a source file
+src/chord-family/chord.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.i
+.PHONY : src/chord-family/chord.cpp.i
+
+src/chord-family/chord.s: src/chord-family/chord.cpp.s
+
+.PHONY : src/chord-family/chord.s
+
+# target to generate assembly for a file
+src/chord-family/chord.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.s
+.PHONY : src/chord-family/chord.cpp.s
+
+src/chord-family/inversion.o: src/chord-family/inversion.cpp.o
+
+.PHONY : src/chord-family/inversion.o
+
+# target to build an object file
+src/chord-family/inversion.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.o
+.PHONY : src/chord-family/inversion.cpp.o
+
+src/chord-family/inversion.i: src/chord-family/inversion.cpp.i
+
+.PHONY : src/chord-family/inversion.i
+
+# target to preprocess a source file
+src/chord-family/inversion.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.i
+.PHONY : src/chord-family/inversion.cpp.i
+
+src/chord-family/inversion.s: src/chord-family/inversion.cpp.s
+
+.PHONY : src/chord-family/inversion.s
+
+# target to generate assembly for a file
+src/chord-family/inversion.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.s
+.PHONY : src/chord-family/inversion.cpp.s
+
+src/interval-family/interval.o: src/interval-family/interval.cpp.o
+
+.PHONY : src/interval-family/interval.o
+
+# target to build an object file
+src/interval-family/interval.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.o
+.PHONY : src/interval-family/interval.cpp.o
+
+src/interval-family/interval.i: src/interval-family/interval.cpp.i
+
+.PHONY : src/interval-family/interval.i
+
+# target to preprocess a source file
+src/interval-family/interval.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.i
+.PHONY : src/interval-family/interval.cpp.i
+
+src/interval-family/interval.s: src/interval-family/interval.cpp.s
+
+.PHONY : src/interval-family/interval.s
+
+# target to generate assembly for a file
+src/interval-family/interval.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.s
+.PHONY : src/interval-family/interval.cpp.s
+
+src/note-family/accidental.o: src/note-family/accidental.cpp.o
+
+.PHONY : src/note-family/accidental.o
+
+# target to build an object file
+src/note-family/accidental.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.o
+.PHONY : src/note-family/accidental.cpp.o
+
+src/note-family/accidental.i: src/note-family/accidental.cpp.i
+
+.PHONY : src/note-family/accidental.i
+
+# target to preprocess a source file
+src/note-family/accidental.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.i
+.PHONY : src/note-family/accidental.cpp.i
+
+src/note-family/accidental.s: src/note-family/accidental.cpp.s
+
+.PHONY : src/note-family/accidental.s
+
+# target to generate assembly for a file
+src/note-family/accidental.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.s
+.PHONY : src/note-family/accidental.cpp.s
+
+src/note-family/naturalNote.o: src/note-family/naturalNote.cpp.o
+
+.PHONY : src/note-family/naturalNote.o
+
+# target to build an object file
+src/note-family/naturalNote.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.o
+.PHONY : src/note-family/naturalNote.cpp.o
+
+src/note-family/naturalNote.i: src/note-family/naturalNote.cpp.i
+
+.PHONY : src/note-family/naturalNote.i
+
+# target to preprocess a source file
+src/note-family/naturalNote.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.i
+.PHONY : src/note-family/naturalNote.cpp.i
+
+src/note-family/naturalNote.s: src/note-family/naturalNote.cpp.s
+
+.PHONY : src/note-family/naturalNote.s
+
+# target to generate assembly for a file
+src/note-family/naturalNote.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.s
+.PHONY : src/note-family/naturalNote.cpp.s
+
+src/note-family/note.o: src/note-family/note.cpp.o
+
+.PHONY : src/note-family/note.o
+
+# target to build an object file
+src/note-family/note.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.o
+.PHONY : src/note-family/note.cpp.o
+
+src/note-family/note.i: src/note-family/note.cpp.i
+
+.PHONY : src/note-family/note.i
+
+# target to preprocess a source file
+src/note-family/note.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.i
+.PHONY : src/note-family/note.cpp.i
+
+src/note-family/note.s: src/note-family/note.cpp.s
+
+.PHONY : src/note-family/note.s
+
+# target to generate assembly for a file
+src/note-family/note.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.s
+.PHONY : src/note-family/note.cpp.s
+
+src/note-family/noteClass.o: src/note-family/noteClass.cpp.o
+
+.PHONY : src/note-family/noteClass.o
+
+# target to build an object file
+src/note-family/noteClass.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.o
+.PHONY : src/note-family/noteClass.cpp.o
+
+src/note-family/noteClass.i: src/note-family/noteClass.cpp.i
+
+.PHONY : src/note-family/noteClass.i
+
+# target to preprocess a source file
+src/note-family/noteClass.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.i
+.PHONY : src/note-family/noteClass.cpp.i
+
+src/note-family/noteClass.s: src/note-family/noteClass.cpp.s
+
+.PHONY : src/note-family/noteClass.s
+
+# target to generate assembly for a file
+src/note-family/noteClass.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.s
+.PHONY : src/note-family/noteClass.cpp.s
+
+src/note-family/tone.o: src/note-family/tone.cpp.o
+
+.PHONY : src/note-family/tone.o
+
+# target to build an object file
+src/note-family/tone.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.o
+.PHONY : src/note-family/tone.cpp.o
+
+src/note-family/tone.i: src/note-family/tone.cpp.i
+
+.PHONY : src/note-family/tone.i
+
+# target to preprocess a source file
+src/note-family/tone.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.i
+.PHONY : src/note-family/tone.cpp.i
+
+src/note-family/tone.s: src/note-family/tone.cpp.s
+
+.PHONY : src/note-family/tone.s
+
+# target to generate assembly for a file
+src/note-family/tone.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.s
+.PHONY : src/note-family/tone.cpp.s
+
+src/scale-family/chordScale.o: src/scale-family/chordScale.cpp.o
+
+.PHONY : src/scale-family/chordScale.o
+
+# target to build an object file
+src/scale-family/chordScale.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.o
+.PHONY : src/scale-family/chordScale.cpp.o
+
+src/scale-family/chordScale.i: src/scale-family/chordScale.cpp.i
+
+.PHONY : src/scale-family/chordScale.i
+
+# target to preprocess a source file
+src/scale-family/chordScale.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.i
+.PHONY : src/scale-family/chordScale.cpp.i
+
+src/scale-family/chordScale.s: src/scale-family/chordScale.cpp.s
+
+.PHONY : src/scale-family/chordScale.s
+
+# target to generate assembly for a file
+src/scale-family/chordScale.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.s
+.PHONY : src/scale-family/chordScale.cpp.s
+
+src/scale-family/mode.o: src/scale-family/mode.cpp.o
+
+.PHONY : src/scale-family/mode.o
+
+# target to build an object file
+src/scale-family/mode.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.o
+.PHONY : src/scale-family/mode.cpp.o
+
+src/scale-family/mode.i: src/scale-family/mode.cpp.i
+
+.PHONY : src/scale-family/mode.i
+
+# target to preprocess a source file
+src/scale-family/mode.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.i
+.PHONY : src/scale-family/mode.cpp.i
+
+src/scale-family/mode.s: src/scale-family/mode.cpp.s
+
+.PHONY : src/scale-family/mode.s
+
+# target to generate assembly for a file
+src/scale-family/mode.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.s
+.PHONY : src/scale-family/mode.cpp.s
+
+src/scale-family/parentScale.o: src/scale-family/parentScale.cpp.o
+
+.PHONY : src/scale-family/parentScale.o
+
+# target to build an object file
+src/scale-family/parentScale.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.o
+.PHONY : src/scale-family/parentScale.cpp.o
+
+src/scale-family/parentScale.i: src/scale-family/parentScale.cpp.i
+
+.PHONY : src/scale-family/parentScale.i
+
+# target to preprocess a source file
+src/scale-family/parentScale.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.i
+.PHONY : src/scale-family/parentScale.cpp.i
+
+src/scale-family/parentScale.s: src/scale-family/parentScale.cpp.s
+
+.PHONY : src/scale-family/parentScale.s
+
+# target to generate assembly for a file
+src/scale-family/parentScale.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.s
+.PHONY : src/scale-family/parentScale.cpp.s
+
+src/scale-family/scale.o: src/scale-family/scale.cpp.o
+
+.PHONY : src/scale-family/scale.o
+
+# target to build an object file
+src/scale-family/scale.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.o
+.PHONY : src/scale-family/scale.cpp.o
+
+src/scale-family/scale.i: src/scale-family/scale.cpp.i
+
+.PHONY : src/scale-family/scale.i
+
+# target to preprocess a source file
+src/scale-family/scale.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.i
+.PHONY : src/scale-family/scale.cpp.i
+
+src/scale-family/scale.s: src/scale-family/scale.cpp.s
+
+.PHONY : src/scale-family/scale.s
+
+# target to generate assembly for a file
+src/scale-family/scale.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.s
+.PHONY : src/scale-family/scale.cpp.s
 
 test/test_main.o: test/test_main.cpp.o
 
@@ -204,6 +663,114 @@ test/test_main.cpp.s:
 	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/test/test_main.cpp.s
 .PHONY : test/test_main.cpp.s
 
+unused/accidental.o: unused/accidental.cpp.o
+
+.PHONY : unused/accidental.o
+
+# target to build an object file
+unused/accidental.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/unused/accidental.cpp.o
+.PHONY : unused/accidental.cpp.o
+
+unused/accidental.i: unused/accidental.cpp.i
+
+.PHONY : unused/accidental.i
+
+# target to preprocess a source file
+unused/accidental.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/unused/accidental.cpp.i
+.PHONY : unused/accidental.cpp.i
+
+unused/accidental.s: unused/accidental.cpp.s
+
+.PHONY : unused/accidental.s
+
+# target to generate assembly for a file
+unused/accidental.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/unused/accidental.cpp.s
+.PHONY : unused/accidental.cpp.s
+
+unused/interval.o: unused/interval.cpp.o
+
+.PHONY : unused/interval.o
+
+# target to build an object file
+unused/interval.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/unused/interval.cpp.o
+.PHONY : unused/interval.cpp.o
+
+unused/interval.i: unused/interval.cpp.i
+
+.PHONY : unused/interval.i
+
+# target to preprocess a source file
+unused/interval.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/unused/interval.cpp.i
+.PHONY : unused/interval.cpp.i
+
+unused/interval.s: unused/interval.cpp.s
+
+.PHONY : unused/interval.s
+
+# target to generate assembly for a file
+unused/interval.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/unused/interval.cpp.s
+.PHONY : unused/interval.cpp.s
+
+unused/naturalNote.o: unused/naturalNote.cpp.o
+
+.PHONY : unused/naturalNote.o
+
+# target to build an object file
+unused/naturalNote.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.o
+.PHONY : unused/naturalNote.cpp.o
+
+unused/naturalNote.i: unused/naturalNote.cpp.i
+
+.PHONY : unused/naturalNote.i
+
+# target to preprocess a source file
+unused/naturalNote.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.i
+.PHONY : unused/naturalNote.cpp.i
+
+unused/naturalNote.s: unused/naturalNote.cpp.s
+
+.PHONY : unused/naturalNote.s
+
+# target to generate assembly for a file
+unused/naturalNote.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.s
+.PHONY : unused/naturalNote.cpp.s
+
+unused/noteClass.o: unused/noteClass.cpp.o
+
+.PHONY : unused/noteClass.o
+
+# target to build an object file
+unused/noteClass.cpp.o:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.o
+.PHONY : unused/noteClass.cpp.o
+
+unused/noteClass.i: unused/noteClass.cpp.i
+
+.PHONY : unused/noteClass.i
+
+# target to preprocess a source file
+unused/noteClass.cpp.i:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.i
+.PHONY : unused/noteClass.cpp.i
+
+unused/noteClass.s: unused/noteClass.cpp.s
+
+.PHONY : unused/noteClass.s
+
+# target to generate assembly for a file
+unused/noteClass.cpp.s:
+	$(MAKE) -f CMakeFiles/MusicTheory.dir/build.make CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.s
+.PHONY : unused/noteClass.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -216,12 +783,75 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... src/naturalNote.o"
-	@echo "... src/naturalNote.i"
-	@echo "... src/naturalNote.s"
+	@echo "... src/abstract-chord-family/abstractChord.o"
+	@echo "... src/abstract-chord-family/abstractChord.i"
+	@echo "... src/abstract-chord-family/abstractChord.s"
+	@echo "... src/abstract-chord-family/abstractInversion.o"
+	@echo "... src/abstract-chord-family/abstractInversion.i"
+	@echo "... src/abstract-chord-family/abstractInversion.s"
+	@echo "... src/abstract-scale-family/abstractChordScale.o"
+	@echo "... src/abstract-scale-family/abstractChordScale.i"
+	@echo "... src/abstract-scale-family/abstractChordScale.s"
+	@echo "... src/abstract-scale-family/abstractMode.o"
+	@echo "... src/abstract-scale-family/abstractMode.i"
+	@echo "... src/abstract-scale-family/abstractMode.s"
+	@echo "... src/abstract-scale-family/abstractParentScale.o"
+	@echo "... src/abstract-scale-family/abstractParentScale.i"
+	@echo "... src/abstract-scale-family/abstractParentScale.s"
+	@echo "... src/abstract-scale-family/abstractScale.o"
+	@echo "... src/abstract-scale-family/abstractScale.i"
+	@echo "... src/abstract-scale-family/abstractScale.s"
+	@echo "... src/chord-family/chord.o"
+	@echo "... src/chord-family/chord.i"
+	@echo "... src/chord-family/chord.s"
+	@echo "... src/chord-family/inversion.o"
+	@echo "... src/chord-family/inversion.i"
+	@echo "... src/chord-family/inversion.s"
+	@echo "... src/interval-family/interval.o"
+	@echo "... src/interval-family/interval.i"
+	@echo "... src/interval-family/interval.s"
+	@echo "... src/note-family/accidental.o"
+	@echo "... src/note-family/accidental.i"
+	@echo "... src/note-family/accidental.s"
+	@echo "... src/note-family/naturalNote.o"
+	@echo "... src/note-family/naturalNote.i"
+	@echo "... src/note-family/naturalNote.s"
+	@echo "... src/note-family/note.o"
+	@echo "... src/note-family/note.i"
+	@echo "... src/note-family/note.s"
+	@echo "... src/note-family/noteClass.o"
+	@echo "... src/note-family/noteClass.i"
+	@echo "... src/note-family/noteClass.s"
+	@echo "... src/note-family/tone.o"
+	@echo "... src/note-family/tone.i"
+	@echo "... src/note-family/tone.s"
+	@echo "... src/scale-family/chordScale.o"
+	@echo "... src/scale-family/chordScale.i"
+	@echo "... src/scale-family/chordScale.s"
+	@echo "... src/scale-family/mode.o"
+	@echo "... src/scale-family/mode.i"
+	@echo "... src/scale-family/mode.s"
+	@echo "... src/scale-family/parentScale.o"
+	@echo "... src/scale-family/parentScale.i"
+	@echo "... src/scale-family/parentScale.s"
+	@echo "... src/scale-family/scale.o"
+	@echo "... src/scale-family/scale.i"
+	@echo "... src/scale-family/scale.s"
 	@echo "... test/test_main.o"
 	@echo "... test/test_main.i"
 	@echo "... test/test_main.s"
+	@echo "... unused/accidental.o"
+	@echo "... unused/accidental.i"
+	@echo "... unused/accidental.s"
+	@echo "... unused/interval.o"
+	@echo "... unused/interval.i"
+	@echo "... unused/interval.s"
+	@echo "... unused/naturalNote.o"
+	@echo "... unused/naturalNote.i"
+	@echo "... unused/naturalNote.s"
+	@echo "... unused/noteClass.o"
+	@echo "... unused/noteClass.i"
+	@echo "... unused/noteClass.s"
 .PHONY : help
 
 

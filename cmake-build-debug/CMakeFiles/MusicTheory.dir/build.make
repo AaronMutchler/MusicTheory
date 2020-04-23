@@ -83,34 +83,349 @@ CMakeFiles/MusicTheory.dir/test/test_main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/test/test_main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/test/test_main.cpp -o CMakeFiles/MusicTheory.dir/test/test_main.cpp.s
 
-CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
-CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.o: ../src/naturalNote.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/naturalNote.cpp
+CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.o: ../unused/naturalNote.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/unused/naturalNote.cpp
 
-CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/naturalNote.cpp > CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.i
+CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/unused/naturalNote.cpp > CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.i
 
-CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/naturalNote.cpp -o CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.s
+CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/unused/naturalNote.cpp -o CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.s
+
+CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.o: ../unused/noteClass.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/unused/noteClass.cpp
+
+CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/unused/noteClass.cpp > CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.i
+
+CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/unused/noteClass.cpp -o CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.s
+
+CMakeFiles/MusicTheory.dir/unused/accidental.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/unused/accidental.cpp.o: ../unused/accidental.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/MusicTheory.dir/unused/accidental.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/unused/accidental.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/unused/accidental.cpp
+
+CMakeFiles/MusicTheory.dir/unused/accidental.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/unused/accidental.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/unused/accidental.cpp > CMakeFiles/MusicTheory.dir/unused/accidental.cpp.i
+
+CMakeFiles/MusicTheory.dir/unused/accidental.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/unused/accidental.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/unused/accidental.cpp -o CMakeFiles/MusicTheory.dir/unused/accidental.cpp.s
+
+CMakeFiles/MusicTheory.dir/unused/interval.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/unused/interval.cpp.o: ../unused/interval.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/MusicTheory.dir/unused/interval.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/unused/interval.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/unused/interval.cpp
+
+CMakeFiles/MusicTheory.dir/unused/interval.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/unused/interval.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/unused/interval.cpp > CMakeFiles/MusicTheory.dir/unused/interval.cpp.i
+
+CMakeFiles/MusicTheory.dir/unused/interval.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/unused/interval.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/unused/interval.cpp -o CMakeFiles/MusicTheory.dir/unused/interval.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.o: ../src/note-family/naturalNote.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/note-family/naturalNote.cpp
+
+CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/note-family/naturalNote.cpp > CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/note-family/naturalNote.cpp -o CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.o: ../src/note-family/accidental.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/note-family/accidental.cpp
+
+CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/note-family/accidental.cpp > CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/note-family/accidental.cpp -o CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.o: ../src/note-family/noteClass.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/note-family/noteClass.cpp
+
+CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/note-family/noteClass.cpp > CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/note-family/noteClass.cpp -o CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.o: ../src/note-family/note.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/note-family/note.cpp
+
+CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/note-family/note.cpp > CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/note-family/note.cpp -o CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.o: ../src/note-family/tone.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/note-family/tone.cpp
+
+CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/note-family/tone.cpp > CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/note-family/tone.cpp -o CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.o: ../src/interval-family/interval.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/interval-family/interval.cpp
+
+CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/interval-family/interval.cpp > CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/interval-family/interval.cpp -o CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.o: ../src/scale-family/scale.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/scale-family/scale.cpp
+
+CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/scale-family/scale.cpp > CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/scale-family/scale.cpp -o CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.o: ../src/scale-family/parentScale.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/scale-family/parentScale.cpp
+
+CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/scale-family/parentScale.cpp > CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/scale-family/parentScale.cpp -o CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.o: ../src/scale-family/mode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/scale-family/mode.cpp
+
+CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/scale-family/mode.cpp > CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/scale-family/mode.cpp -o CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.o: ../src/scale-family/chordScale.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/scale-family/chordScale.cpp
+
+CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/scale-family/chordScale.cpp > CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/scale-family/chordScale.cpp -o CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.o: ../src/abstract-scale-family/abstractScale.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractScale.cpp
+
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractScale.cpp > CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractScale.cpp -o CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.o: ../src/abstract-scale-family/abstractParentScale.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractParentScale.cpp
+
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractParentScale.cpp > CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractParentScale.cpp -o CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.o: ../src/abstract-scale-family/abstractMode.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractMode.cpp
+
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractMode.cpp > CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractMode.cpp -o CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.o: ../src/abstract-scale-family/abstractChordScale.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractChordScale.cpp
+
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractChordScale.cpp > CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractChordScale.cpp -o CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.o: ../src/abstract-chord-family/abstractChord.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/abstract-chord-family/abstractChord.cpp
+
+CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/abstract-chord-family/abstractChord.cpp > CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/abstract-chord-family/abstractChord.cpp -o CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.o: ../src/abstract-chord-family/abstractInversion.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/abstract-chord-family/abstractInversion.cpp
+
+CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/abstract-chord-family/abstractInversion.cpp > CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/abstract-chord-family/abstractInversion.cpp -o CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.o: ../src/chord-family/chord.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/chord-family/chord.cpp
+
+CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/chord-family/chord.cpp > CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/chord-family/chord.cpp -o CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.s
+
+CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.o: CMakeFiles/MusicTheory.dir/flags.make
+CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.o: ../src/chord-family/inversion.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.o -c /Users/Aaron/CLionProjects/MusicTheory/src/chord-family/inversion.cpp
+
+CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Aaron/CLionProjects/MusicTheory/src/chord-family/inversion.cpp > CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.i
+
+CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Aaron/CLionProjects/MusicTheory/src/chord-family/inversion.cpp -o CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.s
 
 # Object files for target MusicTheory
 MusicTheory_OBJECTS = \
 "CMakeFiles/MusicTheory.dir/main.cpp.o" \
 "CMakeFiles/MusicTheory.dir/test/test_main.cpp.o" \
-"CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.o"
+"CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.o" \
+"CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.o" \
+"CMakeFiles/MusicTheory.dir/unused/accidental.cpp.o" \
+"CMakeFiles/MusicTheory.dir/unused/interval.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.o" \
+"CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.o"
 
 # External object files for target MusicTheory
 MusicTheory_EXTERNAL_OBJECTS =
 
 MusicTheory: CMakeFiles/MusicTheory.dir/main.cpp.o
 MusicTheory: CMakeFiles/MusicTheory.dir/test/test_main.cpp.o
-MusicTheory: CMakeFiles/MusicTheory.dir/src/naturalNote.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/unused/naturalNote.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/unused/noteClass.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/unused/accidental.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/unused/interval.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/note-family/naturalNote.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/note-family/accidental.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/note-family/noteClass.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/note-family/note.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/note-family/tone.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/interval-family/interval.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/scale-family/scale.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/scale-family/parentScale.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/scale-family/mode.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/scale-family/chordScale.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractScale.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractParentScale.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractMode.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/abstract-scale-family/abstractChordScale.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractChord.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/abstract-chord-family/abstractInversion.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/chord-family/chord.cpp.o
+MusicTheory: CMakeFiles/MusicTheory.dir/src/chord-family/inversion.cpp.o
 MusicTheory: CMakeFiles/MusicTheory.dir/build.make
 MusicTheory: CMakeFiles/MusicTheory.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable MusicTheory"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Aaron/CLionProjects/MusicTheory/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX executable MusicTheory"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MusicTheory.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

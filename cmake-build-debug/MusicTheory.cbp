@@ -85,13 +85,139 @@
 		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/main.cpp">
 			<Option target="MusicTheory"/>
 		</Unit>
-		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/naturalNote.cpp">
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/abstract-chord-family/abstractChord.cpp">
 			<Option target="MusicTheory"/>
 		</Unit>
-		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/naturalNote.h">
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/abstract-chord-family/abstractChord.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/abstract-chord-family/abstractInversion.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/abstract-chord-family/abstractInversion.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractChordScale.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractChordScale.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractMode.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractMode.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractParentScale.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractParentScale.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractScale.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/abstract-scale-family/abstractScale.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/chord-family/chord.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/chord-family/chord.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/chord-family/inversion.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/chord-family/inversion.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/interval-family/interval.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/interval-family/interval.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/note-family/accidental.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/note-family/accidental.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/note-family/naturalNote.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/note-family/naturalNote.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/note-family/note.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/note-family/note.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/note-family/noteClass.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/note-family/noteClass.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/note-family/tone.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/note-family/tone.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/scale-family/chordScale.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/scale-family/chordScale.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/scale-family/mode.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/scale-family/mode.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/scale-family/parentScale.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/scale-family/parentScale.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/scale-family/scale.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/src/scale-family/scale.h">
 			<Option target="MusicTheory"/>
 		</Unit>
 		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/test/test_main.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/unused/accidental.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/unused/accidental.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/unused/interval.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/unused/interval.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/unused/naturalNote.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/unused/naturalNote.h">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/unused/noteClass.cpp">
+			<Option target="MusicTheory"/>
+		</Unit>
+		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/unused/noteClass.h">
 			<Option target="MusicTheory"/>
 		</Unit>
 		<Unit filename="/Users/Aaron/CLionProjects/MusicTheory/CMakeLists.txt">
